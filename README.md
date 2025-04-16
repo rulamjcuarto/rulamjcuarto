@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on AI prompts
+- 🌱 I’m currently learning AI prompts / investments / Chnese
+- 👯 I’m looking to collaborate on AI prompt business ideas
+- 🤔 I’m looking for help with networking with others on gihub
+- 💬 Ask me about current favorite prompting techniques
+- 📫 How to reach me: here?
+- 😄 Pronouns: hey you?
+- ⚡ Fun fact: first github repo 2025
 <!--
 **rulamjcuarto/rulamjcuarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
